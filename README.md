@@ -1,11 +1,11 @@
 
- Hi there, I'm Rahul kargwal! 👋
+ Hi there, I'm Rahul kumawat! 👋
 
- 👨‍🏫 Data Science Trainer | Technical Educator | Developer
+ 👨‍🏫 Data Science Trainee | Technical Educator | Developer
 
 I am a Data Science professional and Educator based in *Jaipur, Rajasthan*, with a passion for bridging the gap between theoretical concepts and real-world software development.
 
-Currently, I am a *Data Science Trainer at Ambuja Foundation*, where I train students in Python, SQL, and Machine Learning, helping them transition from learners to industry-ready professionals. My goal is to work with progressive educational institutions to teach, learn, and experiment with new software technologies.
+Currently, I am a *Data Science Trainee at Ambuja Foundation*, where I train students in Python, SQL, and Machine Learning, helping them transition from learners to industry-ready professionals. My goal is to work with progressive educational institutions to teach, learn, and experiment with new software technologies.
 
 ---
 
@@ -38,5 +38,5 @@ I believe in *"Learning by Building."* whether it is analyzing unicorn startups 
 
 ### 📫 Connect with Me
 
-* *Email:* msatyam376@gmail.com
-* *Location:* Jaipur, Rajasthan 302017
+* *Email:* rahulkumawat9995@gmail.com
+* *Location:* Jaipur, Rajasthan 302012
